@@ -9,10 +9,10 @@ Add a database named academy.
 Do admin login by using :
 
 
-			Email - admin@gmail.com
-			Password – admin123
+			Email - raju@gmail.com
+			Password – raju
 
 		And you can change it too from the login servlet.
 Now, you can perform tasks of admin i.e. managing data of classes, students, subjects and teachers.
 
--Ajay Bisht
+-Raju Tiwari
